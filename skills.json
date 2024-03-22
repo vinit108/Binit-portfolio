@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Research & analytics ",
+    "icon": "https://img.icons8.com/fluency/48/case-study.png"
+  },
+  {
+    "name": "Digital marketing",
+    "icon": "https://img.icons8.com/clouds/100/commercial.png"
+  },
+  {
+    "name": "Product Strategy",
+    "icon": "https://img.icons8.com/arcade/64/strategy-board.png"
+  },
+  {
+    "name": "Social Media Marketing",
+    "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-social-media-marketing-marketing-technology-flaticons-lineal-color-flat-icons-5.png"
+  },
+  {
+    "name": "Search Engine Optimization(SEO)",
+    "icon": "https://img.icons8.com/clouds/100/positive-dynamic.png"
+  },
+  {
+    "name": "ATL and BTL ",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+  },
+  {
+    "name": "Product Management",
+    "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-product-management-computer-programming-flaticons-lineal-color-flat-icons.png"
+  },
+  {
+    "name": "MS OFFICE",
+    "icon": "https://img.icons8.com/color/48/ms-exchange.png"
+  },
+  {
+    "name": "HTML",
+    "icon": "https://img.icons8.com/color/48/html.png"
+  },
+
+  {
+    "name": "CSS",
+    "icon": "https://img.icons8.com/color-glass/48/css.png"
+  },
+  {
+    "name": "SQL",
+    "icon": "https://img.icons8.com/dusk/64/sql.png"
+  },
+  {
+    "name": "PYTHON",
+    "icon": "https://img.icons8.com/clouds/100/python.png"
+  },
+  {
+    "name": "JAVA",
+    "icon": "https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png"
+  }
+]
