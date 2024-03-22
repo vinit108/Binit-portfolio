@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Tata Presentation",
+    "desc": "The Tata Group: A titan of Indian industry. Discover its rich heritage, global reach, and unwavering commitment to social responsibility.",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1xHHY7QfSAlKNhPYYcd_PEns6OWKTqgN9/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true",
+      "code": "https://docs.google.com/presentation/d/1xHHY7QfSAlKNhPYYcd_PEns6OWKTqgN9/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true"
+    }
+  },
+  {
+    "name": "Speech Making",
+    "desc": "Conquer the stage! This presentation unveils the secrets of effective speech making. ",
+    "image": "sppuprepandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1xRN8m1GY105GH-O961y-sSXpzpYgxmGV/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "Leadership",
+    "desc": "Unleash your inner leader! This presentation explores the core principles of effective leadership. Discover the qualities that define great leaders and gain practical tools to elevate your own.",
+    "image": "weatherlyandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1xVjJbUayWIkcBYBEWASiqRuZhctfOfGK/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Management",
+    "desc": "This presentation unveils strategies for effective management.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1xO3tTAuepcFH5wiW6RoqnRW55vkLYeEH/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true"
+    }
+  },
+  {
+    "name": "Distribution Management System",
+    "desc": "Optimizing the flow: Unveiling the power of Distribution Management Systems (DMS).",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1x_RZmJzG9Rrg-YfvYXahCmTAJFrSVqt1/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dettol",
+    "desc": "Dettol: A trusted guardian for over 80 years. Explore the brand's remarkable journey, from its pioneering antiseptic roots to its diverse product range.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/1xddSyfVRx_BarIPMkFBE2BzmXOJx-CyZ/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bank Employee Training",
+    "desc": "Empowering excellence: A comprehensive look at Bank Employee Training. This presentation explores the essential skills and knowledge for success in the banking industry.",
+    "image": "Designer (5)",
+    "category": "mern",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1xNKNVYqbtcImzEaWWW63eMfC-0n-R-6v/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Planning And Decision Making",
+    "desc": " Explore the power of planning and decision-making. ",
+    "image": "Designer (6)",
+    "category": "mern",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1xOT8Homhr5vY8yO3Sp_z_C17j7e_tOIe/edit?usp=sharing&ouid=104874178630297093545&rtpof=true&sd=true",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "Project Report Amol Aanand",
+    "desc": "This report details a visit to Amul Dairy in Anand, Gujarat, India. It explores the cooperative's history, production processes for various dairy products, and insights.",
+    "image": "Designer (7)",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/file/d/1gWXJ15B59AixG174qa4O9CvG55Z6TY1L/view?usp=sharing",
+      "code": "#"
+    }
+  }
+]
